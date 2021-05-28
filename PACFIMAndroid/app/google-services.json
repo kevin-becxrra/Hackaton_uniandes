@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "685489981937",
+    "firebase_url": "https://pacfim-cfd2c.firebaseio.com",
+    "project_id": "pacfim-cfd2c",
+    "storage_bucket": "pacfim-cfd2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685489981937:android:f36414a6f840dec32d9c50",
+        "android_client_info": {
+          "package_name": "com.example.pacfim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685489981937-jm139ip2es5nf2gitcds8qdgrvo1ee57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pacfim",
+            "certificate_hash": "9aceabdaacdbddc79baa22c8673e0bfac794a14b"
+          }
+        },
+        {
+          "client_id": "685489981937-jteu65rp5ha8sg4emtkt8l6kfpfm18vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToJMhdZJaTFYvY_7vklQL9gzzMpBrWVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685489981937-jteu65rp5ha8sg4emtkt8l6kfpfm18vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
