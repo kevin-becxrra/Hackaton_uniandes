@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PACFIM</string>
+    <string name="PACFIM">PACFIM</string>
+    <string name="ID">Cédula</string>
+    <string name="Password">Contraseña</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Tarjeta">Últimos 4 números de tu tarjeta</string>
+    <string name="Nombre">Nombre:</string>
+    <string name="Porcentaje">Porcentaje:</string>
+    <string name="María">María</string>
+    <string name="Edith">Edith</string>
+    <string name="Juan">Juan</string>
+    <string name="Héctor">Héctor</string>
+    <string name="Porcentaje1">20%:</string>
+    <string name="Porcentaje2">25%:</string>
+    <string name="Porcentaje3">40%:</string>
+    <string name="Porcentaje4">15%:</string>
+    <string name="IDCliente">ID del cliente:</string>
+    <string name="Producto">Producto:</string>
+    <string name="Precio">Precio:</string>
+    <string name="Cantidad">Cantidad:</string>
+    <string name="Cliente">Creación de cliente potencial</string>
+</resources>
